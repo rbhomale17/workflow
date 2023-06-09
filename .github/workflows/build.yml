@@ -3,5 +3,5 @@ jobs:
     first-job:
         runs-on: windows-latest
         steps:
-            - run : node-v
+            - run : node -v
             - run: npm -v
