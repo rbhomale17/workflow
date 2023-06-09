@@ -1,0 +1,22 @@
+{
+  "name": "moral-riddle-2098",
+  "version": "1.0.0",
+  "description": "CW-Unit-4 Project of Styudent Name: Rushikesh Bhomale & Student Code: fw25_348",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "keywords": [],
+  "author": "Rushikesh Bhomale",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
